@@ -1,2 +1,2 @@
 # jnf-pagina-pessoal
-Página pessoal de José Nelson Figueiredo
+Teste para desenvolvimento de GitHub Pages
